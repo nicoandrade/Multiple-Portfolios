@@ -2,7 +2,7 @@
 Contributors: nicoandrade
 Tags: portfolio, post type
 Requires at least: 3.7
-Tested up to: 4.5.2
+Tested up to: 4.7.2
 Stable tag: 0.9.3
 License: GPLv2 or later
 
@@ -23,7 +23,7 @@ Just install and activate.
 = How do I get all the registered portfolios? =
 
 You can use this method on your Theme's code:
-Multiple_Portfolios::get_post_types();
+`Multiple_Portfolios::get_post_types();`
 
 
 = Is this code on GitHub? =
