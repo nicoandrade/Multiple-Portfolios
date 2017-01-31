@@ -1,0 +1,411 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Multiple Portfolios\n"
+"POT-Creation-Date: 2017-01-30 23:43-0300\n"
+"PO-Revision-Date: 2017-01-30 23:43-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: multiple-portfolios.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-gamajo-dashboard-glancer.php:55
+msgid ""
+"Trying to add At a Glance items to dashboard widget afterhook already fired"
+msgstr ""
+
+#: includes/class-multiple-portfolios-admin.php:80
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:41
+#, php-format
+msgid "%s Item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:43
+#, php-format
+msgctxt "add new on admin bar"
+msgid "%s Item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:44
+msgid "Add New Item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:45
+#: includes/class-multiple-portfolios-post-type.php:46
+#, php-format
+msgid "Add New %s Item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:47
+#, php-format
+msgid "Edit %s Item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:48
+msgid "View Item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:49
+#, php-format
+msgid "All %s Items"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:50
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:51
+#, php-format
+msgid "Parent %s Item:"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:52
+#, php-format
+msgid "No %s items found"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:53
+#, php-format
+msgid "No %s items found in trash"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:54
+#, php-format
+msgid "Filter %s items list"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:55
+#, php-format
+msgid "%s items list navigation"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:56
+#, php-format
+msgid "%s items list"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:98
+#: includes/class-multiple-portfolios-post-type.php:101
+#, php-format
+msgid "%s item updated."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:99
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:100
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:103
+#, php-format
+msgid "%s item restored to revision from %s"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:104
+#, php-format
+msgid "%s item published."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:105
+#, php-format
+msgid "%s item saved."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:106
+#, php-format
+msgid "%s item submitted."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:108
+#, php-format
+msgid "%s item scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:111
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:113
+#, php-format
+msgid "%s item draft updated."
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:120
+#, php-format
+msgid "View %s item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-post-type.php:121
+#, php-format
+msgid "Preview %s item"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:51
+#: includes/class-multiple-portfolios-taxonomy-category.php:53
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:52
+#, php-format
+msgid "%s Category"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:54
+#, php-format
+msgid "Edit %s Category"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:55
+#, php-format
+msgid "Update %s Category"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:56
+#, php-format
+msgid "Add New %s Category"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:57
+#, php-format
+msgid "New %s Category Name"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:58
+#, php-format
+msgid "Parent %s Category"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:59
+#, php-format
+msgid "Parent %s Category:"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:60
+#, php-format
+msgid "All %s Categories"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:61
+#, php-format
+msgid "Search %s Categories"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:62
+#, php-format
+msgid "Popular %s Categories"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:63
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:64
+#, php-format
+msgid "Add or remove %s categories"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:65
+#, php-format
+msgid "Choose from the most used %s categories"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:66
+#, php-format
+msgid "No %s categories found."
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:67
+#, php-format
+msgid "%s categories list navigation"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-category.php:68
+#, php-format
+msgid "%s categories list"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:50
+#: includes/class-multiple-portfolios-taxonomy-tag.php:52
+#, php-format
+msgid "%s Tags"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:51
+#, php-format
+msgid "%s Tag"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:53
+#, php-format
+msgid "Edit %s Tag"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:54
+#, php-format
+msgid "Update %s Tag"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:55
+#, php-format
+msgid "Add New %s Tag"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:56
+#, php-format
+msgid "New %s Tag Name"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:57
+#, php-format
+msgid "Parent %s Tag"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:58
+#, php-format
+msgid "Parent %s Tag:"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:59
+#, php-format
+msgid "All %s Tags"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:60
+#, php-format
+msgid "Search %s Tags"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:61
+#, php-format
+msgid "Popular %s Tags"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:62
+#, php-format
+msgid "Separate %s tags with commas"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:63
+#, php-format
+msgid "Add or remove %s tags"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:64
+#, php-format
+msgid "Choose from the most used %s tags"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:65
+#, php-format
+msgid "No %s tags found."
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:66
+#, php-format
+msgid "%s tags list navigation"
+msgstr ""
+
+#: includes/class-multiple-portfolios-taxonomy-tag.php:67
+#, php-format
+msgid "%s tags list"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:207
+msgctxt "post type general name"
+msgid "Parent Portfolios"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:208
+msgctxt "post type singular name"
+msgid "Parent Portfolio"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:209
+msgctxt "admin menu"
+msgid "Multiple Portfolios"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:210
+msgctxt "add new on admin bar"
+msgid "Parent Portfolios"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:211
+msgctxt "parent portfolio"
+msgid "Create new Parent Portfolio"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:212
+msgid "Create New Parent Portfolio"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:213
+msgid "New Parent Portfolio"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:214
+msgid "Edit Parent Portfolio"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:215
+msgid "View Parent Portfolio"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:216
+msgid "All Parent Portfolios"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:217
+msgid "Search Parent Portfolios"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:218
+msgid "Parent Parent Portfolio:"
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:219
+msgid "No parent portfolio found."
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:220
+msgid "No parent portfolio in Trash."
+msgstr ""
+
+#: includes/class-multiple-portfolios.php:225
+msgid "Description."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Multiple Portfolios"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.quemalabs.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create as many portfolio custom post types as you want."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quema Labs"
+msgstr ""
