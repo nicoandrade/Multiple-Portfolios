@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: Multiple Portfolios
- * Plugin URI:  https://www.quemalabs.com/
+ * Plugin URI:  https://github.com/nicoandrade/Multiple-Portfolios/
  * Description: Create multiple portfolios on your WordPress site.
  * Version:     1.0.0
  * Author:      Quema Labs

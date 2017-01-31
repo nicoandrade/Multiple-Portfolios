@@ -28,7 +28,7 @@ Multiple_Portfolios::get_post_types();
 
 = Is this code on GitHub? =
 
-Of course: [https://github.com/devinsays/portfolio-post-type](https://github.com/devinsays/portfolio-post-type)
+Yes, here: [https://github.com/nicoandrade/Multiple-Portfolios](https://github.com/nicoandrade/Multiple-Portfolios)
 
 == Changelog ==
 
