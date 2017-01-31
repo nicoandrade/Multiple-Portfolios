@@ -11,7 +11,7 @@
  * @wordpress-plugin
  * Plugin Name: Multiple Portfolios
  * Plugin URI:  https://www.quemalabs.com/
- * Description: Create as many portfolio custom post types as you want.
+ * Description: Create multiple portfolios on your WordPress site.
  * Version:     1.0.0
  * Author:      Quema Labs
  * Author URI:  https://www.quemalabs.com/

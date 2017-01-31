@@ -12,6 +12,8 @@ With this plugin you can create as many portfolios as you want. This means that 
 
 This plugin doesn't change how portfolio items are displayed in your theme.  You'll need to add templates for archive-portfolio.php and single-portfolio.php if you want to customize the display of portfolio items.
 
+It is based on the plugin Portfolio Post Types by Devin Price and Gary Jones but extended to allow multiple portfolios.
+
 == Installation ==
 
 Just install and activate.
