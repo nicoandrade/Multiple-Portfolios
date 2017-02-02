@@ -3,7 +3,7 @@ Contributors: nicoandrade
 Tags: portfolio, post type
 Requires at least: 3.7
 Tested up to: 4.7.2
-Stable tag: 0.9.3
+Stable tag: 1.0.0
 License: GPLv2 or later
 
 == Description ==
