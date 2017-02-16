@@ -12,7 +12,7 @@
  * Plugin Name: Multiple Portfolios
  * Plugin URI:  https://github.com/nicoandrade/Multiple-Portfolios/
  * Description: Create multiple portfolios on your WordPress site.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Quema Labs
  * Author URI:  https://www.quemalabs.com/
  * Text Domain: multiple-portfolios
@@ -76,7 +76,11 @@ function multiple_portfolios_init() {
 				require plugin_dir_path( __FILE__ ) . 'includes/class-gamajo-single-entry-term-body-classes.php';
 			}
 			global $multiple_portfolios;
-			$multi_portfolios_names = $multiple_portfolios->get_post_types();
+			if ( $multiple_portfolios ) {
+				$multi_portfolios_names = $multiple_portfolios->get_post_types();
+			}else{
+				$multi_portfolios_names = array( 'slug' => 'portfolio', 'name' => 'Portfolio');
+			}
 
 			foreach ( $multi_portfolios_names as $multi_portfolios_name ) {
 				$multiple_portfolios_body_classes = new Gamajo_Single_Entry_Term_Body_Classes;

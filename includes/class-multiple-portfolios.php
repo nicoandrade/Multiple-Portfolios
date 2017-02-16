@@ -240,8 +240,12 @@ class Multiple_Portfolios {
 		);
 		register_post_type( 'parent-portfolio', $args );
 
-
-		$multi_portfolios_names = $this->get_post_types();
+		global $multiple_portfolios;
+		if ( $multiple_portfolios ) {
+			$multi_portfolios_names = $this->get_post_types();
+		}else{
+			$multi_portfolios_names = array( 'slug' => 'portfolio', 'name' => 'Portfolio');
+		}
 
 		if ( empty( $multi_portfolios_names ) ) {
 			//Create the defaul Portfolio

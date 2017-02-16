@@ -33,7 +33,12 @@ class Multiple_Portfolios_Registrations {
 	public function register() {
 		global $multi_portfolios_post_type, $multi_portfolios_taxonomy_category, $multi_portfolios_taxonomy_tag, $multiple_portfolios;
 		
-		$multi_portfolios_names = $multiple_portfolios->get_post_types();
+		if ( $multiple_portfolios ) {
+			$multi_portfolios_names = $multiple_portfolios->get_post_types();
+		}else{
+			$multi_portfolios_names = array( 'slug' => 'portfolio', 'name' => 'Portfolio');
+		}
+		
 
 		foreach ( $multi_portfolios_names as $multi_portfolios_name ) {
 

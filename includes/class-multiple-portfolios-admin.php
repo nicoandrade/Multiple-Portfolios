@@ -30,7 +30,11 @@ class Multiple_Portfolios_Admin {
 	public function init() {
 
 		global $multiple_portfolios;
-		$multi_portfolios_names = $multiple_portfolios->get_post_types();
+		if ( $multiple_portfolios ) {
+			$multi_portfolios_names = $multiple_portfolios->get_post_types();
+		}else{
+			$multi_portfolios_names = array( 'slug' => 'portfolio', 'name' => 'Portfolio');
+		}
 
 			foreach ( $multi_portfolios_names as $multi_portfolios_name ) {
 				$taxonomy_objects = get_object_taxonomies( $multi_portfolios_name['slug'] );

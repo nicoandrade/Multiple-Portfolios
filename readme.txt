@@ -3,7 +3,7 @@ Contributors: nicoandrade
 Tags: portfolio, post type
 Requires at least: 3.7
 Tested up to: 4.7.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 == Description ==
@@ -31,6 +31,10 @@ You can use this method on your Theme's code:
 Yes, here: [https://github.com/nicoandrade/Multiple-Portfolios](https://github.com/nicoandrade/Multiple-Portfolios)
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Fixed: Error on activation
 
 = 1.0.0 =
 
